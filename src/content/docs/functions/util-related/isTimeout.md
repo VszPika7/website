@@ -1,5 +1,5 @@
 ---
-title: $isTimeout
+title: KKKKK
 description: $isTimeout will check if the user is timeouted with Discord's built-in timeout feature.
 id: isTimeout
 ---
